@@ -1,4 +1,4 @@
-# Data_-_Entry_Portfolio
+# Data_Entry_Portfolio
 Data Entry Portfolio
 
 1. Project : Transcript Image from Magazine to Excel <br>
